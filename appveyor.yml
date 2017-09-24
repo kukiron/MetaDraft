@@ -19,5 +19,5 @@ install:
   - npm install -g npm@latest
   - set PATH=%APPDATA%\npm;%PATH%
 
-test_script:
-  - npm run test
+# test_script:
+#   - npm run test
