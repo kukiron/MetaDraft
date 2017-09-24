@@ -1,10 +1,10 @@
 import React from 'react';
 import { Editor, EditorState, RichUtils } from 'draft-js';
-import 'draft-js/dist/Draft.css';
 import BlockStyleControls from './components/BlockStyleControls';
 import InlineStyleControls from './components/InlineStyleControls';
 import { styleMap } from './components/StyleComponent';
 
+import 'draft-js/dist/Draft.css';
 import './MyTextEditor.css';
 
 const getBlockStyle = (block) => {
