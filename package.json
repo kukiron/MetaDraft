@@ -4,6 +4,9 @@
   "private": true,
   "author": "Kafil Uddin Kiron",
   "lisence": "MIT",
+  "engines": {
+    "node": ">=6.0"
+  },
   "dependencies": {
     "draft-js": "^0.10.2",
     "react": "^15.6.1",
