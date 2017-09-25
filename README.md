@@ -10,9 +10,11 @@ The app is built with create-react-app & provides a simple UI for WYSIWYG editor
 https://metadraft.herokuapp.com
 
 ## Getting Started
+If you have node & npm installed you can clone the repo & get started.  
 
 ```
 $ git clone https://github.com/kukiron/MetaDraft.git
+$ cd MetaDraft
 $ npm install
 $ npm start
 ```
