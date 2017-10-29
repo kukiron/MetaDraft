@@ -1,9 +1,14 @@
 {
   "name": "MetaDraft",
-  "version": "0.1.0",
-  "private": true,
-  "author": "Kafil Uddin Kiron",
-  "homepage": "https://github.com/kukiron/MetaDraft.git",
+  "version": "1.0.0",
+  "description": "Pure Rich Text Editor built with Draft.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kukiron/MetaDraft.git"
+  },
+  "author": "Kafil Uddin Kiron <kafiluddin.kiron@gmail.com>",
+  "homepage": "https://metadraft.herokuapp.com",
   "lisence": "MIT",
   "engines": {
     "node": ">=6.0"
