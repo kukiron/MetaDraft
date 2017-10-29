@@ -1,5 +1,6 @@
 # MetaDraft
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e9bb3c87cd18475d960130332690be7e)](https://www.codacy.com/app/kukiron/MetaDraft?utm_source=github.com&utm_medium=referral&utm_content=kukiron/MetaDraft&utm_campaign=badger)
 [![Build Status](https://travis-ci.org/kukiron/MetaDraft.svg?branch=master)](https://travis-ci.org/kukiron/MetaDraft) [![Build status](https://ci.appveyor.com/api/projects/status/i6sj2dl5ajlpyrdg?svg=true)](https://ci.appveyor.com/project/kukiron/metadraft)
  [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/kukiron/MetaDraft/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/kukiron/MetaDraft/?branch=master) 
 
