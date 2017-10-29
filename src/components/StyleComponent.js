@@ -4,7 +4,7 @@ export const styleMap = {
     fontFamily: '"Inconsolata", "Menlo", "Consolas", monospace',
     fontSize: 16,
     padding: 2
-  },
+  }
 };
 
 export const BLOCK_TYPES = [
