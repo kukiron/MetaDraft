@@ -10,9 +10,6 @@
   "author": "Kafil Uddin Kiron <kafiluddin.kiron@gmail.com>",
   "homepage": "https://metadraft.herokuapp.com",
   "lisence": "MIT",
-  "engines": {
-    "node": ">=6.0"
-  },
   "dependencies": {
     "draft-js": "^0.10.4",
     "react": "^16.0.0",
